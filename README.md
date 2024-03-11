@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+> [!TIP]
+> [![Spotify](https://img.shields.io/badge/Spotify-dw1-2ea44f?logo=spotify)](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr)<br>
+> <sub>Last played:</sub><br>
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y3ikexgk3lvswk3kiblbb62lcy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ![Gif](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
